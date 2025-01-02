@@ -7,8 +7,12 @@
   "engines": {
       "node": "18.x",
       "npm": ">= 9.x"
-   },
-  "directories": {
+  },
+  "engineStrict": true,
+  "ignore-engines": true,
+  ...
+}
+    "directories": {
     "lib": "lib",
     "src": "src",
     "plugins": "plugins"
