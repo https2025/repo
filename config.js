@@ -13,10 +13,10 @@ import { fileURLToPath } from "url";
 
 global.config = {
   /*============== INFO LINK ==============*/
-  instagram: "https://whatsapp.com/channel/0029ValeNDG0LKZLbAQZNs0i",
-  github: "https://whatsapp.com/channel/0029ValeNDG0LKZLbAQZNs0i",
-  group: "https://whatsapp.com/channel/0029ValeNDG0LKZLbAQZNs0i",
-  website: "https://whatsapp.com/channel/0029ValeNDG0LKZLbAQZNs0i",
+  instagram: "https://chat.whatsapp.com/BCGME91Fh6u4mDVdEUvpso",
+  github: "https://chat.whatsapp.com/BCGME91Fh6u4mDVdEUvpso",
+  group: "https://chat.whatsapp.com/BCGME91Fh6u4mDVdEUvpso",
+  website: "https://chat.whatsapp.com/BCGME91Fh6u4mDVdEUvpso",
 
   /*============== PAYMENT ==============*/
   dana: "6287760550924",
@@ -115,7 +115,7 @@ global.APIKeys = {
 global.link = {
   ig: "-",
   gh: "-",
-  gc: "https://chat.whatsapp.com/CpDIoaepBWT4uc2YqbLTOi",
+  gc: "https://chat.whatsapp.com/BCGME91Fh6u4mDVdEUvpso",
   web: "-",
   nh: "https://nhentai.net/g/365296/",
 };
@@ -129,17 +129,17 @@ global.pay = {
   qris: "https://telegra.ph/file/51e8aa53f1ed4ee5a9bd0.jpg",
 };
 //allfake
-global.sig = "https://whatsapp.com/channel/0029ValeNDG0LKZLbAQZNs0i";
-global.tautanwa = "https://wa.me/6281297662535/";
-global.sgh = "https://whatsapp.com/channel/0029ValeNDG0LKZLbAQZNs0i";
-global.sgc = "https://whatsapp.com/channel/0029ValeNDG0LKZLbAQZNs0i";
+global.sig = "https://chat.whatsapp.com/BCGME91Fh6u4mDVdEUvpso";
+global.tautanwa = "https://wa.me/6287760550924/";
+global.sgh = "https://chat.whatsapp.com/BCGME91Fh6u4mDVdEUvpso";
+global.sgc = "https://chat.whatsapp.com/BCGME91Fh6u4mDVdEUvpso";
 global.chid = '120363339486995304@newsletter'
 global.sdc = "-";
 global.botdate = `⫹⫺ DATE: 99999 9999\n⫹⫺ 𝗧𝗶𝗺𝗲:999999`;
 global.linkyt = "-";
 global.syt = "-";
 global.sfb = "-";
-global.snh = "https://chat.whatsapp.com/6281297662535";
+global.snh = "https://chat.whatsapp.com/6287760550924";
 global.thumb = "https://pomf2.lain.la/f/qblsmgwh.jpg";
 global.elainajpg = [
     'https://telegra.ph/file/3e43fcfaea6dc1ba95617.jpg',
