@@ -10,7 +10,6 @@
   },
   "engineStrict": true,
   "ignore-engines": true,
-  ...
 }
     "directories": {
     "lib": "lib",
