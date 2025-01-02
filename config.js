@@ -19,17 +19,17 @@ global.config = {
   website: "https://whatsapp.com/channel/0029ValeNDG0LKZLbAQZNs0i",
 
   /*============== PAYMENT ==============*/
-  dana: "0895324070395",
+  dana: "6287760550924",
   ovo: "0895324070395",
-  gopay: "0895324070395",
-  pulsa: "0895324070395",
+  gopay: "6287760550924",
+  pulsa: "6287760550924",
 
   /*============== STAFF ==============*/
-  owner: [["6281297662535", "MaouXenz", true]],
-  nomerowner: "6281297662535",
+  owner: [["6287760550924", "MaouXenz", true]],
+  nomerowner: "6287760550924",
 
   /*============= PAIRING =============*/
-  pairingNumber: "6281297662535",
+  pairingNumber: "6283808170193",
   pairingAuth: true,
 
   /*============== API ==============*/
@@ -122,10 +122,10 @@ global.link = {
 
 /*============== PAYMENT ==============*/
 global.pay = {
-  dana: "0895324070395",
-  ovo: "0895324070395",
-  gopay: "0895324070395",
-  pulsa: "0895324070395",
+  dana: "6287760550924",
+  ovo: "6287760550924",
+  gopay: "6287760550924",
+  pulsa: "6287760550924",
   qris: "https://telegra.ph/file/51e8aa53f1ed4ee5a9bd0.jpg",
 };
 //allfake
@@ -133,7 +133,7 @@ global.sig = "https://whatsapp.com/channel/0029ValeNDG0LKZLbAQZNs0i";
 global.tautanwa = "https://wa.me/6281297662535/";
 global.sgh = "https://whatsapp.com/channel/0029ValeNDG0LKZLbAQZNs0i";
 global.sgc = "https://whatsapp.com/channel/0029ValeNDG0LKZLbAQZNs0i";
-global.chid = '120363298369543523@newsletter'
+global.chid = '120363339486995304@newsletter'
 global.sdc = "-";
 global.botdate = `⫹⫺ DATE: 99999 9999\n⫹⫺ 𝗧𝗶𝗺𝗲:999999`;
 global.linkyt = "-";
@@ -149,8 +149,8 @@ global.elainajpg = [
 global.proxy = 'https://proxy.scrapeops.io/v1/?api_key=9bcd9402-72c9-4a33-af18-16c9275edb9b&url='
 /*============== NOMOR ==============*/
 global.info = {
-  nomorbot: "62895422800236",
-  nomorown: "6281297662535",
+  nomorbot: "6283808170193",
+  nomorown: "6287760550924",
   namebot: "Miyako-BotMD",
   nameown: "XenzPedofil",
 };
