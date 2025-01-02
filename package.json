@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "engines": {
-    "node": "20.18.1"
+    "node": "18.x"
   },
   "directories": {
     "lib": "lib",
