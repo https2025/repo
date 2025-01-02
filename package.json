@@ -14,10 +14,10 @@
     "plugins": "plugins"
   },
   "scripts": {
-    "start": "node index.js",
-    "test": "node test.js",
+    "start": "node -v && node index.js",
+    "test": "node -v && node test.js",
     "test2": "nodemon index.js"
-  },
+  }, 
   "keywords": [
     "termux-whatsapp-bot",
     "whatsapp-bot",
