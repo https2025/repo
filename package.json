@@ -1,11 +1,11 @@
 {
   "name": "MIYAKO-TSUKIYUKI",
-  "version": "1.0.0",
+  "version": "4.0",
   "description": "hanya projek kecil",
   "main": "index.js",
   "type": "module",
   "engines": {
-      "node": ">= 18.x",
+      "node": "18.x",
       "npm": ">= 9.x"
    },
   "directories": {
@@ -36,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BochilGaming/games-wabot.git"
+    "url": "git+https://github.com/https2025/repo"
   },
   "bugs": {
-    "url": "https://github.com/BochilGaming/games-wabot/issues"
+    "url": "https://github.com/https2025/repo/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
